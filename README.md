@@ -1,10 +1,10 @@
-![Nombre](https://)
+![Guitarra](https://i.imgur.com/z6FkYwy.png)
 
-# Titulo Pagina
+# Guitarra
 
 El proyecto (NOMBRE PAGINA) fue creado con el fin de demostrar el uso de conocimientos adquiridos y herramientas aprendidas durante los años de aprendisaje.
 
-Para la creacion de este proyecto web se hizo uso de las siguientes tecnologias **HTML5**, **CSS3** y **JAVASCRIPT**.
+Para la creacion de este proyecto web se hizo uso de las siguientes tecnologias **HTML5**, **CSS3**, **BOOTSTRAP**, .
 
 Se hizo uso de conocimientos como **HTML SEMANTICO**, **BEM**, **MOBILE FIRST**.
 
@@ -19,6 +19,6 @@ Se preparo un ambiente de Desarrollo con **GULP**. El cual se encargar de realiz
 - **TRANSPILAR SASS**
 - **TRANSPILAR JAVASCRIPT CON BABEL**
 - **ESCUCHAR CAMBIOS EN EL ARCHIVO**
-- **AGREGAR POTSCSS - AUTOPREFIXER - CSSNANO**
+- **AGREGAR POTSCSS - AUTOPREFIXER - CSSNANO- PURGECSS**
 
 ver [Pagina](http://sdfs "Pagina")
