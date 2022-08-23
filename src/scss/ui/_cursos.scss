@@ -1,0 +1,18 @@
+@use '../base/mixins' as m;
+
+.cursos {
+  padding: 5rem 0;
+  background-attachment: fixed;
+}
+
+.notavif .notwebp.cursos {
+  @include m.bg-image('../img/cursos_bg.jpg');
+}
+
+.webp .cursos {
+  @include m.bg-image('../img/cursos_bg.webp');
+}
+
+.avif .cursos {
+  @include m.bg-image('../img/cursos_bg.avif');
+}
